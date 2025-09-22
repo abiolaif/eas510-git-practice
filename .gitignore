@@ -1,0 +1,7 @@
+# Python and ML artifacts
+*.pyc
+__pycache__/
+
+# Datasets and Models
+data/
+models/
